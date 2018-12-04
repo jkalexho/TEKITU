@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Walls
+  - Chasms
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Skybox
+    uniqueID: 3932268537
+    locked: 0
+  - name: Map
+    uniqueID: 2177722981
+    locked: 0
+  - name: Shadows
+    uniqueID: 621436955
+    locked: 0
+  - name: Objects
+    uniqueID: 3577408051
+    locked: 0
+  - name: SFX
+    uniqueID: 545003067
+    locked: 0

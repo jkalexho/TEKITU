@@ -1,0 +1,942 @@
+fileFormatVersion: 2
+guid: 00954363fe02ce849932dfab02168fcf
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kurogiri spritesheet dashes enlarged_0
+    21300002: kurogiri spritesheet dashes enlarged_1
+    21300004: kurogiri spritesheet dashes enlarged_2
+    21300006: kurogiri spritesheet dashes enlarged_3
+    21300008: kurogiri spritesheet dashes enlarged_4
+    21300010: kurogiri spritesheet dashes enlarged_5
+    21300012: kurogiri spritesheet dashes enlarged_6
+    21300014: kurogiri spritesheet dashes enlarged_7
+    21300016: kurogiri spritesheet dashes enlarged_8
+    21300018: kurogiri spritesheet dashes enlarged_9
+    21300020: kurogiri spritesheet dashes enlarged_10
+    21300022: kurogiri spritesheet dashes enlarged_11
+    21300024: kurogiri spritesheet dashes enlarged_12
+    21300026: kurogiri spritesheet dashes enlarged_13
+    21300028: kurogiri spritesheet dashes enlarged_14
+    21300030: kurogiri spritesheet dashes enlarged_15
+    21300032: kurogiri spritesheet dashes enlarged_16
+    21300034: kurogiri spritesheet dashes enlarged_17
+    21300036: kurogiri spritesheet dashes enlarged_18
+    21300038: kurogiri spritesheet dashes enlarged_19
+    21300040: kurogiri spritesheet dashes enlarged_20
+    21300042: kurogiri spritesheet dashes enlarged_21
+    21300044: kurogiri spritesheet dashes enlarged_22
+    21300046: kurogiri spritesheet dashes enlarged_23
+    21300048: kurogiri spritesheet dashes enlarged_24
+    21300050: kurogiri spritesheet dashes enlarged_25
+    21300052: kurogiri spritesheet dashes enlarged_26
+    21300054: kurogiri spritesheet dashes enlarged_27
+    21300056: kurogiri spritesheet dashes enlarged_28
+    21300058: kurogiri spritesheet dashes enlarged_29
+    21300060: kurogiri spritesheet dashes enlarged_30
+    21300062: kurogiri spritesheet dashes enlarged_31
+    21300064: kurogiri spritesheet dashes enlarged_32
+    21300066: kurogiri spritesheet dashes enlarged_33
+    21300068: kurogiri spritesheet dashes enlarged_34
+    21300070: kurogiri spritesheet dashes enlarged_35
+    21300072: kurogiri spritesheet dashes enlarged_36
+    21300074: kurogiri spritesheet dashes enlarged_37
+    21300076: kurogiri spritesheet dashes enlarged_38
+    21300078: kurogiri spritesheet dashes enlarged_39
+    21300080: kurogiri spritesheet dashes enlarged_40
+    21300082: kurogiri spritesheet dashes enlarged_41
+    21300084: kurogiri spritesheet dashes enlarged_42
+    21300086: kurogiri spritesheet dashes enlarged_43
+    21300088: kurogiri spritesheet dashes enlarged_44
+    21300090: kurogiri spritesheet dashes enlarged_45
+    21300092: kurogiri spritesheet dashes enlarged_46
+    21300094: kurogiri spritesheet dashes enlarged_47
+    21300096: kurogiri spritesheet dashes enlarged_48
+    21300098: kurogiri spritesheet dashes enlarged_49
+    21300100: kurogiri spritesheet dashes enlarged_50
+    21300102: kurogiri spritesheet dashes enlarged_51
+    21300104: kurogiri spritesheet dashes enlarged_52
+    21300106: kurogiri spritesheet dashes enlarged_53
+    21300108: kurogiri spritesheet dashes enlarged_54
+    21300110: kurogiri spritesheet dashes enlarged_55
+    21300112: kurogiri spritesheet dashes enlarged_56
+    21300114: kurogiri spritesheet dashes enlarged_57
+    21300116: kurogiri spritesheet dashes enlarged_58
+    21300118: kurogiri spritesheet dashes enlarged_59
+    21300120: kurogiri spritesheet dashes enlarged_60
+    21300122: kurogiri spritesheet dashes enlarged_61
+    21300124: kurogiri spritesheet dashes enlarged_62
+    21300126: kurogiri spritesheet dashes enlarged_63
+    21300128: kurogiri spritesheet dashes enlarged_64
+    21300130: kurogiri spritesheet dashes enlarged_65
+    21300132: kurogiri spritesheet dashes enlarged_66
+    21300134: kurogiri spritesheet dashes enlarged_67
+    21300136: kurogiri spritesheet dashes enlarged_68
+    21300138: kurogiri spritesheet dashes enlarged_69
+    21300140: kurogiri spritesheet dashes enlarged_70
+    21300142: kurogiri spritesheet dashes enlarged_71
+    21300144: kurogiri spritesheet dashes enlarged_72
+    21300146: kurogiri spritesheet dashes enlarged_73
+    21300148: kurogiri spritesheet dashes enlarged_74
+    21300150: kurogiri spritesheet dashes enlarged_75
+    21300152: kurogiri spritesheet dashes enlarged_76
+    21300154: kurogiri spritesheet dashes enlarged_77
+    21300156: kurogiri spritesheet dashes enlarged_78
+    21300158: kurogiri spritesheet dashes enlarged_79
+    21300160: kurogiri spritesheet dashes enlarged_80
+    21300162: kurogiri spritesheet dashes enlarged_81
+    21300164: kurogiri spritesheet dashes enlarged_82
+    21300166: kurogiri spritesheet dashes enlarged_83
+    21300168: kurogiri spritesheet dashes enlarged_84
+    21300170: kurogiri spritesheet dashes enlarged_85
+    21300172: kurogiri spritesheet dashes enlarged_86
+    21300174: kurogiri spritesheet dashes enlarged_87
+    21300176: kurogiri spritesheet dashes enlarged_88
+    21300178: kurogiri spritesheet dashes enlarged_89
+    21300180: kurogiri spritesheet dashes enlarged_90
+    21300182: kurogiri spritesheet dashes enlarged_91
+    21300184: kurogiri spritesheet dashes enlarged_92
+    21300186: kurogiri spritesheet dashes enlarged_93
+    21300188: kurogiri spritesheet dashes enlarged_94
+    21300190: kurogiri spritesheet dashes enlarged_95
+    21300192: kurogiri spritesheet dashes enlarged_96
+    21300194: kurogiri spritesheet dashes enlarged_97
+    21300196: kurogiri spritesheet dashes enlarged_98
+    21300198: kurogiri spritesheet dashes enlarged_99
+    21300200: kurogiri spritesheet dashes enlarged_100
+    21300202: kurogiri spritesheet dashes enlarged_101
+    21300204: kurogiri spritesheet dashes enlarged_102
+    21300206: kurogiri spritesheet dashes enlarged_103
+    21300208: kurogiri spritesheet dashes enlarged_104
+    21300210: kurogiri spritesheet dashes enlarged_105
+    21300212: kurogiri spritesheet dashes enlarged_106
+    21300214: kurogiri spritesheet dashes enlarged_107
+    21300216: kurogiri spritesheet dashes enlarged_108
+    21300218: kurogiri spritesheet dashes enlarged_109
+    21300220: kurogiri spritesheet dashes enlarged_110
+    21300222: kurogiri spritesheet dashes enlarged_111
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d04d25e2a4fc534f90757eda7c3c232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34f7864c6aafea4398e4fac6c74e8e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b02fd7686b6cee4e91f4139d65b7ff9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476105659aa064647b44895baf20dcf1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a8983e8a68ec745af072f0ac3798f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2f333a4271a0d43b3498fc92fdb814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372fabdd5f1101346b4e9d8d4953b5b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5867efaf21d04a1419763f5e445943ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06988143fc77bf74f9dead53ed42cb71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658738283f976704680247866d82ac8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e987fdf649922c34e95824d71c9daf2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4971b37f29c9a8442909a37bab117364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8b9e8d66d09af42ad79087657478fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffef3ac49540a640a21cad33c35a5bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_14
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c780d2046f0e943889152340bc8250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ab6cff84a8cbc488c785a98a78ed39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca5e15e38251274797f0f8c56aecfd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa87e9b6ec0a48c4e9cc247d8e4af8a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4018ca29c0f4bf940a13f8abeea4536a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a456fd7845fe6a41bb38f20872f575f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4e796eed978f14d93a5ced686cddc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c4e5de21bf36f45a0c4140b6d55e1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7094265145bd4d8428475f0d5f4a744e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_23
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383e27249c8da184ca5c0226ee11ac40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a9a5fca5a1f4d4f8e4d054407bd6b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d065fa5cb7c53f541ac6a7d5cee3b90e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca4a4ec81921f5428fc47f8f862c18c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944f9a77cb26c9846976e4b0631275de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcfc7e209fc91a4bb7375e0b76c551c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6511f83361b08d40a21c89b56461aae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869838eb12834ce419fbc118a66cf3ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_31
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b7f919035495a47ba6ad1fc4c0e7cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_32
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed6ce6bceb102b499d348243189b084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_33
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa963affbf69d845a9ac1ff4cafd2d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65105fa34f374b94db6960f58a1b436d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurogiri spritesheet dashes enlarged_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb7dcbfd81348a458fefe83ffc889aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e4276aff1f7a7bc4ba925b7d4cafa7b1
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
